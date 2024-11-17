@@ -16,7 +16,7 @@ Before I started using OpenCV, I started going through Shree Nayar's course on t
 | "First Principles of Computer Vision" | [Website](https://fpcv.cs.columbia.edu/) (the one I used) <br> [Coursera](https://www.coursera.org/specializations/firstprinciplesofcomputervision?utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER__coursera_FTCOF_courseraplus_pmax-namer-npls-and-search-themes-country-US-country-CA&campaignid=21019068954&adgroupid=6490842751&device=c&keyword=&matchtype=&network=x&devicemodel=&adposition=&creativeid=6490842751&hide_mobile_promo&gad_source=1&gclid=Cj0KCQiAire5BhCNARIsAM53K1hYO0ofRQ7X_OlYZd8BuB4QcSi7TEI7Q6-NHg7Tn4CNJbCtcSe3jQoaAghuEALw_wcB) <br> [YouTube](https://www.youtube.com/channel/UCf0WB91t8Ky6AuYcQV0CcLw)|
 
 ### OpenCV
-OpenCV gives you a good amount of tools for traditional image processing. 
+[OpenCV](https://en.wikipedia.org/wiki/OpenCV) gives you a good amount of tools for traditional image processing. 
 
 Just a warning that once you get to neural networks, a bulk of traditional image processing techniques will not need to be used again as the only part from the OpenCV library I used in the internship project was to capture and display the video feed from my camera, and a line drawing function. **However** it is very good to understand them as a foundation. 
 
@@ -44,9 +44,9 @@ Additional resources:
 - [Stanford Computer Vision Lectures Youtube playlist](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ&index=1&ab_channel=StanfordUniversitySchoolofEngineering)
 - [Neural Networks / Deep Learning" YouTube playlist by StatQuest](https://youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1&si=DyyrWTpcXlsY8_Uz) 
 
-## Transfer Learning with the YOLO object detection model
+## Transfer Learning with the YOLO [object detection](https://en.wikipedia.org/wiki/Object_detection#:~:text=You%20Only%20Look%20Once%20(YOLO)) model
 ### YOLO
 The [YOLO (You Only Look Once) models](https://docs.ultralytics.com/) are currently some of the best neural network models for real-time object detection at the moment. It is also a framework of tools made by Ultralytics that has made it very easy to use a deep-learning based computer vision model with [less than 20 lines of code](https://docs.ultralytics.com/modes/track/#tracker-selection:~:text=Python%20Examples-,Persisting%20Tracks%20Loop,-Here%20is%20a). Once you get to it, [https://docs.ultralytics.com/modes/](https://docs.ultralytics.com/modes/), [https://docs.ultralytics.com/tasks/](https://docs.ultralytics.com/tasks/) and [https://docs.ultralytics.com/guides/](https://docs.ultralytics.com/guides/) are your best friends. Tutorials from the Ultralytics Youtube channel such as ["Object Detection with Pre-trained Ultralytics YOLOv8 Model | Episode 1"](https://www.youtube.com/watch?v=5ku7npMrW40&ab_channel=Ultralytics) are also decent.
 
 Again, don't pidgeonhole yourself with using just these materials. Learning using these materials is what helped me and you can find a bunch of other resources on Google, Reddit, Github (like the [awesome computer vision repo](https://github.com/jbhuang0604/awesome-computer-vision?tab=readme-ov)), etc.
-Additionally, familarize yourself with finding research papers (using Google Scholar or your college's research database) and reading them.
+Additionally, familarize yourself with finding research papers (using Google Scholar or your college's research database) and [how to read them](https://www.reddit.com/r/math/comments/17p40rz/comment/k840z3n/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button). 
