@@ -48,7 +48,7 @@ Again I recommend to look for other resoures on your own, but here's some other 
 | Resource | Link |
 | --- | --- |
 | Zero to Mastery \| Learn PyTorch for Deep Learning | [Website](https://www.learnpytorch.io/00_pytorch_fundamentals) |
-| "Learn PyTorch for deep learning in a day. Literally." video series by Daniel Bourke | [Youtube]([https://www.youtube.com/watch?v=wlYPhdTbRmk&list=PLzMcBGfZo4-lUA8uGjeXhBUUzPYc6vZRn&index=2&ab_channel=TechWithTim](https://www.youtube.com/watch?v=Z_ikDlimN6A&t=50417s)) |
+| "Learn PyTorch for deep learning in a day. Literally." video series by Daniel Bourke | [Youtube]((https://www.youtube.com/watch?v=Z_ikDlimN6A&t=0s&ab_channel=DanielBourke)) |
 
 | Additional Resources that could be helpful | Link |
 | --- | --- |
