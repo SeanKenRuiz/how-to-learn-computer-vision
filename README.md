@@ -1,7 +1,7 @@
 # How to Learn Computer Vision
 This is a collection of materials I used to start learning and using computer vision for my internship.
 
-Before going through the resources, I'd like to note that you’ll find that computer vision and artificial intelligence has a lot of painful, fun math behind it. Fortunately, the libraries I used abstract this math into easy-to-use functions. If you're focused on the application aspect of computer vision as I was, it could save you time to just have an overview of what tools you have at your disposal instead of worrying about learning about the math of each and every function you use (as I was). 
+Before going through the resources, I'd like to note that you’ll find that computer vision and artificial intelligence has a lot of **_fun_** math behind it. Fortunately, the libraries I used abstract this math into easy-to-use functions. If you're focused on the application aspect of computer vision as I was, it could save you time to just have an overview of what tools you have at your disposal instead of worrying about learning about the math of each and every function you use (as I was). 
 
 A simplified version of the path I used to learn computer vision started off with learning:
 - **traditional image processing with [OpenCV](https://github.com/SeanKenRuiz/how-to-learn-computer-vision/blob/main/README.md#OpenCV)**,
