@@ -20,7 +20,7 @@ Before I started using OpenCV, I started going through **Shree Nayar's course on
 
 Just a warning that once you get to neural networks, a bulk of traditional image processing techniques will not need to be used again as the only part from the OpenCV library I used in the internship project was to capture and display the video feed from my camera, and a line drawing function. **However** it is very good to understand them as a foundation. 
 
-For **learning**, I straight up used the [OpenCV-Python Tutorials](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html) however there are other resources available such as this [**tutorial video series by Tech With Tim**](https://www.youtube.com/watch?v=wlYPhdTbRmk&list=PLzMcBGfZo4-lUA8uGjeXhBUUzPYc6vZRn&index=2&ab_channel=TechWithTim) which lets you know about errors you will potentially run into. Another good resource is from the original documentation is the [GeeksForGeeks OpenCV Tutorial](https://www.geeksforgeeks.org/opencv-python-tutorial/). These none resources may not resonate with your learning style so I highly recommend to look at other resources online. 
+For **learning**, I straight up used the [OpenCV-Python Tutorials](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html) from the OpenCV documentation website however there are other resources available such as this [**tutorial video series by Tech With Tim**](https://www.youtube.com/watch?v=wlYPhdTbRmk&list=PLzMcBGfZo4-lUA8uGjeXhBUUzPYc6vZRn&index=2&ab_channel=TechWithTim) which lets you know about errors you will potentially run into. Another good resource is from the original documentation is the [GeeksForGeeks OpenCV Tutorial](https://www.geeksforgeeks.org/opencv-python-tutorial/). If none of these resources may not resonate with your learning style so I highly recommend to look at other resources online. 
 | Resource | Link |
 | --- | --- |
 | OpenCV-Python Tutorials | [Website](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html) (the one I used) |
@@ -48,7 +48,7 @@ Again I recommend to look for other resoures on your own, but here's some other 
 | Resource | Link |
 | --- | --- |
 | Zero to Mastery \| Learn PyTorch for Deep Learning | [Website](https://www.learnpytorch.io/00_pytorch_fundamentals) |
-| "Learn PyTorch for deep learning in a day. Literally." video series by Daniel Bourke | [Youtube]((https://www.youtube.com/watch?v=Z_ikDlimN6A&t=0s&ab_channel=DanielBourke)) |
+| "Learn PyTorch for deep learning in a day. Literally." video series by Daniel Bourke | [Youtube](https://www.youtube.com/watch?v=Z_ikDlimN6A&t=0s&ab_channel=DanielBourke) |
 
 | Additional Resources that could be helpful | Link |
 | --- | --- |
