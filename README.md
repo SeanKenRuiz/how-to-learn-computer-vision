@@ -5,7 +5,7 @@ Before going through the resources, I'd like to note that you’ll find that com
 
 If you're focused on the application aspect of computer vision as I was, it could save you time to just have an overview of what tools you have at your disposal instead of worrying about learning about the math of each and every function you use (as I was). 
 
-A simplified version of the path I used to learn computer vision started off with learning:
+The general path I took to learn computer vision started off with learning:
 - **traditional image processing with [OpenCV](https://github.com/SeanKenRuiz/how-to-learn-computer-vision/blob/main/README.md#OpenCV)**,
 - then **neural networks with [PyTorch](https://github.com/SeanKenRuiz/how-to-learn-computer-vision/blob/main/README.md#pytorch)**,
 - and finally **[YOLOv8](https://github.com/SeanKenRuiz/how-to-learn-computer-vision/blob/main/README.md#YOLOv8) (You Only Look Once version 8) computer vision model and framework**.
