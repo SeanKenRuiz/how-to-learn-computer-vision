@@ -1,5 +1,5 @@
 # How to Learn Computer Vision
-This is a collection of materials I used to start learning and using computer vision for my internship.
+This is a collection of materials I used to start learning and using computer vision for my internship. The entirety of the main resources took me a couple weeks to go through (albeit with some skipping around).
 
 Before going through the resources, I'd like to note that you’ll find that computer vision and artificial intelligence has a lot of **_fun_** math behind it. Fortunately, the libraries I used abstract this math into easy-to-use functions. 
 
@@ -12,7 +12,7 @@ The general path I took to learn computer vision started off with learning:
 ![Learning Computer Vision Tools](https://github.com/user-attachments/assets/b73e8a0f-2019-43a9-a3be-2d7f008966fe)
 
 ## Traditional Image Processing
-Before I started using OpenCV, I started going through **Shree Nayar's course on the "First Principles of Computer Vision"** as it covers the theory on a good majority of the computer vision field. I only had three months so ended up skimming the course. It provides a great foundation for computer vision however feel free to move onto OpenCV.
+Before I started using OpenCV, I started going through **Shree Nayar's course on the "First Principles of Computer Vision"** as it covers the theory on a good majority of the computer vision field. I only had three months so ended up skimming the course. It provides a great foundation for computer vision however **feel free to move onto OpenCV**.
 | Resource | Link |
 | --- | --- |
 | "First Principles of Computer Vision" | [Website](https://fpcv.cs.columbia.edu/) (the one I used) <br> [Coursera](https://www.coursera.org/specializations/firstprinciplesofcomputervision?utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER__coursera_FTCOF_courseraplus_pmax-namer-npls-and-search-themes-country-US-country-CA&campaignid=21019068954&adgroupid=6490842751&device=c&keyword=&matchtype=&network=x&devicemodel=&adposition=&creativeid=6490842751&hide_mobile_promo&gad_source=1&gclid=Cj0KCQiAire5BhCNARIsAM53K1hYO0ofRQ7X_OlYZd8BuB4QcSi7TEI7Q6-NHg7Tn4CNJbCtcSe3jQoaAghuEALw_wcB) <br> [YouTube](https://www.youtube.com/channel/UCf0WB91t8Ky6AuYcQV0CcLw)|
