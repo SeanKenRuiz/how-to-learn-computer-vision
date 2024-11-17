@@ -11,7 +11,7 @@ A simplified version of the path I used to learn computer vision started off wit
 
 ## Traditional Image Processing
 Before I started using OpenCV, I started going through **Shree Nayar's course on the "First Principles of Computer Vision"** as it covers the theory on a good majority of the computer vision field. I only had three months so ended up skimming the course. It provides a great foundation for computer vision however do not get stuck here and move onto OpenCV.
-| Course | Description |
+| Resource | Link |
 | --- | --- |
 | "First Principles of Computer Vision" | [Website](https://fpcv.cs.columbia.edu/) (the one I used) <br> [Coursera](https://www.coursera.org/specializations/firstprinciplesofcomputervision?utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER__coursera_FTCOF_courseraplus_pmax-namer-npls-and-search-themes-country-US-country-CA&campaignid=21019068954&adgroupid=6490842751&device=c&keyword=&matchtype=&network=x&devicemodel=&adposition=&creativeid=6490842751&hide_mobile_promo&gad_source=1&gclid=Cj0KCQiAire5BhCNARIsAM53K1hYO0ofRQ7X_OlYZd8BuB4QcSi7TEI7Q6-NHg7Tn4CNJbCtcSe3jQoaAghuEALw_wcB) <br> [YouTube](https://www.youtube.com/channel/UCf0WB91t8Ky6AuYcQV0CcLw)|
 
@@ -21,6 +21,11 @@ Before I started using OpenCV, I started going through **Shree Nayar's course on
 Just a warning that once you get to neural networks, a bulk of traditional image processing techniques will not need to be used again as the only part from the OpenCV library I used in the internship project was to capture and display the video feed from my camera, and a line drawing function. **However** it is very good to understand them as a foundation. 
 
 For **learning**, I straight up used the [OpenCV-Python Tutorials](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html) however there are other resources available such as this [**tutorial video series by Tech With Tim**](https://www.youtube.com/watch?v=wlYPhdTbRmk&list=PLzMcBGfZo4-lUA8uGjeXhBUUzPYc6vZRn&index=2&ab_channel=TechWithTim) which lets you know about errors you will potentially run into. Another good resource is from the original documentation is the [GeeksForGeeks OpenCV Tutorial](https://www.geeksforgeeks.org/opencv-python-tutorial/). These none resources may not resonate with your learning style so I highly recommend to look at other resources online. 
+| Resource | Link |
+| --- | --- |
+| OpenCV-Python Tutorials | [Website](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html) (the one I used) |
+| OpenCV Tutorial Series by Tech With Tim | [Youtube](https://www.youtube.com/watch?v=wlYPhdTbRmk&list=PLzMcBGfZo4-lUA8uGjeXhBUUzPYc6vZRn&index=2&ab_channel=TechWithTim) |
+| GeeksForGeeks OpenCV Tutorials | [Website](https://www.geeksforgeeks.org/opencv-python-tutorial/) |
 
 Before going into PyTorch, make sure you:
 - know the data type of an image from OpenCV,
@@ -40,9 +45,15 @@ I personally stopped at chapter 6 of the course as I've gained knowledge of how 
 
 Again I recommend to look for other resoures on your own, but here's some other resources I used to help me understand neural networks.
 
-Additional resources:
-- [Stanford Computer Vision Lectures Youtube playlist](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ&index=1&ab_channel=StanfordUniversitySchoolofEngineering)
-- [Neural Networks / Deep Learning" YouTube playlist by StatQuest](https://youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1&si=DyyrWTpcXlsY8_Uz) 
+| Resource | Link |
+| --- | --- |
+| Zero to Mastery \| Learn PyTorch for Deep Learning | [Website](https://www.learnpytorch.io/00_pytorch_fundamentals) |
+| "Learn PyTorch for deep learning in a day. Literally." video series by Daniel Bourke | [Youtube]([https://www.youtube.com/watch?v=wlYPhdTbRmk&list=PLzMcBGfZo4-lUA8uGjeXhBUUzPYc6vZRn&index=2&ab_channel=TechWithTim](https://www.youtube.com/watch?v=Z_ikDlimN6A&t=50417s)) |
+
+| Additional Resources that could be helpful | Link |
+| --- | --- |
+| Stanford Computer Vision Lectures | [Youtube playlist](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ&index=1&ab_channel=StanfordUniversitySchoolofEngineering) |
+| Neural Networks / Deep Learning" by StatQuest | [Youtube playlist](https://youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1&si=DyyrWTpcXlsY8_Uz) |
 
 ## Transfer Learning with the YOLO [object detection](https://en.wikipedia.org/wiki/Object_detection#:~:text=You%20Only%20Look%20Once%20(YOLO)) model
 ### YOLO
