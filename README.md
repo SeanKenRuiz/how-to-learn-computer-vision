@@ -8,7 +8,7 @@ Additionally, don't pidgeonhole yourself with using just these materials. Learni
 Before I started learning how to use OpenCV, I started with learning the theory. I particularly enjoyed Shree Nayar's course "First Principles of Computer Vision". I've listed this course and links to the course in a variety of formats.
 | Course | Description |
 | --- | --- |
-| "First Principles of Computer Vision" | -[Website](https://fpcv.cs.columbia.edu/) (the one I used) <br> -[Coursera](https://www.coursera.org/specializations/firstprinciplesofcomputervision?utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER__coursera_FTCOF_courseraplus_pmax-namer-npls-and-search-themes-country-US-country-CA&campaignid=21019068954&adgroupid=6490842751&device=c&keyword=&matchtype=&network=x&devicemodel=&adposition=&creativeid=6490842751&hide_mobile_promo&gad_source=1&gclid=Cj0KCQiAire5BhCNARIsAM53K1hYO0ofRQ7X_OlYZd8BuB4QcSi7TEI7Q6-NHg7Tn4CNJbCtcSe3jQoaAghuEALw_wcB) |
+| "First Principles of Computer Vision" | *[Website](https://fpcv.cs.columbia.edu/) (the one I used) <br> *[Coursera](https://www.coursera.org/specializations/firstprinciplesofcomputervision?utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER__coursera_FTCOF_courseraplus_pmax-namer-npls-and-search-themes-country-US-country-CA&campaignid=21019068954&adgroupid=6490842751&device=c&keyword=&matchtype=&network=x&devicemodel=&adposition=&creativeid=6490842751&hide_mobile_promo&gad_source=1&gclid=Cj0KCQiAire5BhCNARIsAM53K1hYO0ofRQ7X_OlYZd8BuB4QcSi7TEI7Q6-NHg7Tn4CNJbCtcSe3jQoaAghuEALw_wcB) |
 ||
 After tak:
 - **traditional image processing with [OpenCV](https://github.com/SeanKenRuiz/how-to-learn-computer-vision/blob/main/README.md#OpenCV)**,
